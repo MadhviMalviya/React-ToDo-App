@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- //task :Build a To-Do list app using React The app should allow users to add new tasks, mark them as complete, and delete them. Use React state to manage the list of tasks and their completion status. Use React props to pass data between components. -->
